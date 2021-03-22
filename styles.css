@@ -32,7 +32,7 @@ html, body {
 	position:absolute;
 	left:18px;
 	top:14px;
-	background-image:url(cunylogo.png);
+	background-image:url(images/cunylogo.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }.e5_0 {
@@ -625,7 +625,7 @@ html, body {
 	position:absolute;
 	left:1182px;
 	top:17px;
-	background-image:url(hunterlogo.png);
+	background-image:url(images/hunterlogo.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }.e67_7 {
@@ -875,7 +875,7 @@ html, body {
 	position:absolute;
 	left:41px;
 	top:19px;
-	background-image:url(graph_1.png);
+	background-image:url(images/graph_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }.e67_24 {
@@ -968,7 +968,7 @@ html, body {
 	position:absolute;
 	left:417px;
 	top:230px;
-	background-image:url(sendbuttonicon.png);
+	background-image:url(images/sendbuttonicon.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }.e67_13 {
@@ -988,7 +988,7 @@ html, body {
 	position:absolute;
 	left:30px;
 	top:163px;
-	background-image:url(chatboticon.png);
+	background-image:url(images/chatboticon.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }.e67_17 {
